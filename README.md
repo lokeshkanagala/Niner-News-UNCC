@@ -37,7 +37,7 @@ Home Page -  This is opening/welcome page to the application showing various New
 Detail Page -  This page show the full detailed news post.
 
 ## Gallery Page
-![alt text](screenshots/Gallery.png "Home Page -  This page shows various pictures clicked by UNCC students around the campus")
+![alt text](screenshots/Gallery .png "Home Page -  This page shows various pictures clicked by UNCC students around the campus")
 
 Gallery Page -  This page shows the pictures clicked by students.
 
