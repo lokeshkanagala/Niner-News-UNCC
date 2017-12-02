@@ -1,6 +1,6 @@
 # Niner-News-UNCC
 
-Deployed on AWS S3 @ [NinerNews : LiveDemo](http://ninernews.s3-website-us-east-1.amazonaws.com)
+Deployed on AWS S3 @ [NinerNews : LiveDemo](http://ninernews.s3-website-us-east-1.amazonaws.com)          Refresh the app if data isn't loading
 
 
 #### 1. If images/news aren't loading, please refresh the application or go to this url @ [REST-API](https://uncc-news-api.herokuapp.com/)  to wakeup the REST API on Heroku and then click the Live Demo. Heroku apps go to sleep if there's an inactivity for 30 minutes.
