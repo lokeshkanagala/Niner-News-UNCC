@@ -3,8 +3,10 @@
 Deployed on AWS S3 @ [NinerNews : LiveDemo](http://ninernews.s3-website-us-east-1.amazonaws.com)
 
 
-1. If images/news aren't loading, please go to this url @ [REST-API](https://uncc-news-api.herokuapp.com/)  to wakeup the REST API on Heroku and then click the Live Demo. Heroku apps go to sleep if there's an inactivity for 30 minutes.
-2. Application Routing is still under development and refreshing a page may give you errors like 404 Not Found, Code: NoSuchKey. In such cases close the web page and re-open it by clicking on the given link.
+#### 1. If images/news aren't loading, please go to this url @ [REST-API](https://uncc-news-api.herokuapp.com/)  to wakeup the REST API on Heroku and then click the Live Demo. Heroku apps go to sleep if there's an inactivity for 30 minutes.
+
+
+#### 2. Application Routing is still under development and refreshing a page may give you errors like 404 Not Found, Code: NoSuchKey. In such cases close the web page and re-open it by clicking on the given link.
 
 
 ## How to Run
